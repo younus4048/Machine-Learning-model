@@ -12,4 +12,6 @@ How to Run
 python task4.py
 
 output:
+
+
 ![WhatsApp Image 2025-08-30 at 22 02 35_7c7429d2](https://github.com/user-attachments/assets/571d3b8f-2419-48fd-bf51-bc1fa3456823)
